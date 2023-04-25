@@ -1,0 +1,26 @@
+
+body {
+    background: url(bg1.jpg) no-repeat center center/cover;
+    margin: 0px;
+    padding: 0px;
+    /* width
+}
+
+.container {
+    display: inline;
+}
+
+
+#login {
+    background-color: white;
+    width: 398px;
+    height: 319px;
+    margin: auto;
+    text-align: center;
+    margin-top: 138px;
+    padding: 50px;
+    border-radius: 44px;
+    margin-right: 150px;
+}
+
+
